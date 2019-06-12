@@ -1,0 +1,19 @@
+{
+  "name": "express-json-server",
+  "version": "1.0.0",
+  "description": "api server with json server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express"
+  ],
+  "author": "2pai",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "edit-json-file": "^1.2.1",
+    "express": "^4.17.1"
+  }
+}
